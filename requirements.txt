@@ -1,0 +1,9 @@
+streamlit>=1.40,<2
+torch>=2.2,<3
+numpy>=1.26,<3
+pretty_midi>=0.2.10
+music21>=9.1
+scipy>=1.12
+plotly>=5.24
+pandas>=2.2
+mido>=1.3
